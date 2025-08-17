@@ -95,7 +95,7 @@ fraud-detection-system/
 ---
 
 ## 👨‍💻 Author
-Developed by *Your Name*  
-📧 Contact: your.email@example.com  
+Developed by *Naman Nirbhay*  
+📧 Contact: n.nirbhaya@iitg.ac.in  
 
 
